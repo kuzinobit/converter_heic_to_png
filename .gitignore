@@ -1,0 +1,14 @@
+/.env
+.idea/
+.venv/
+build/
+dist/
+data/heic/*.heic
+!data/heic
+data/png/*
+!data/png
+*.iml
+*.spec
+*.png
+*.txt
+!requirements.txt
